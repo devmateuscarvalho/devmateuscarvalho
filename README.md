@@ -4,8 +4,8 @@ Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnol
 
   <div align="center" background-color="grey" justify content= "center">
   <a href="https://github.com/devmateuscarvalho">
-  <img height="140em" float= "left" src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" float= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" width="auto" float= "left" src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" width="auto" float= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
   <div align="left">
