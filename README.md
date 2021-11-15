@@ -1,10 +1,11 @@
 Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnologia! Tenho 25 anos e sou formado em Geografia, com o envolvimento em projetos de geoprocessamento e criação de mapas, passei a conhecer mais o mundo da programação e decidi que era isso que eu queria fazer da vida, como carreira e também para projetos pessoais! Estou disposto a participar de projetos diversos, desenvolvendo com força de vontade, dedicação e felicidade! 
-<div align="center">
+
+<div align="justify content">
   <a href="https://github.com/devmateuscarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" float= "left" src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" float= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+  <br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
