@@ -2,6 +2,7 @@
 
 Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnologia! Tenho 25 anos e sou formado em Geografia. Com o envolvimento em projetos de geoprocessamento e criação de mapas, passei a conhecer mais o mundo da programação e decidi que era isso que eu queria fazer da vida, como carreira e também para projetos pessoais, estou disposto a participar de projetos diversos, desenvolvendo com força de vontade, dedicação e alegria! 
 
+*Nos repositórios disponibilizo meus materiais de estudo
   <div align="center" background-color="grey" justify content= "center">
   <a href="https://github.com/devmateuscarvalho">
   <img height="120em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
