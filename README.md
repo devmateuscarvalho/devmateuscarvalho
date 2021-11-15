@@ -20,10 +20,10 @@ Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnol
 
  <br>
 <div align="right">
-  <a href="https://instagram.com/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/Twitch-%23333?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.mateuscarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/devmateuscarvalho/devmateuscarvalho/blob/main/github-contribution-grid-snake.svg)
  
