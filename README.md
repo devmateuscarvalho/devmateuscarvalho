@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="150" />
 
-Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnologia! Tenho 25 anos e sou formado em Geografia. Com o envolvimento em projetos de geoprocessamento e criação de mapas, passei a conhecer mais o mundo da programação e decidi que era isso que eu queria fazer da vida, como carreira e também para projetos pessoais, estou disposto a participar de projetos diversos, desenvolvendo com força de vontade, dedicação e alegria! 
+Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de tecnologia, cursando análise e desenvolvimento de sistemas.
 
 *Nos repositórios disponibilizo meus materiais de estudo
   <div align="center" background-color="grey" justify content= "center">
@@ -13,7 +13,7 @@ Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de programação e tecnol
   <img align="center" alt="mateus-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mateus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mateus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="mateus-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
  </div>
 
  <br>
