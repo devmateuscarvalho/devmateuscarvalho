@@ -26,12 +26,3 @@ Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de tecnologia, cursando a
 
  </div>
 
- <br>
-<div align="center">
-  <a href="https://instagram.com/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dev.mateuscarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vieiracmateus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devmateuscarvalho/devmateuscarvalho/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
