@@ -13,7 +13,7 @@ Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de tecnologia, cursando a
   <img align="center" alt="mateus-JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="mateus-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="mateus-Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-      <img align="center" alt="mateus-MySql" height="40" width="50" src="  https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="mateus-MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
     <img align="center" alt="mateus-linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 
