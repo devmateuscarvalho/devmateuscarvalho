@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="150" />
 
-Bem vindo(a) ao meu GitHub, eu sou o Mateus, estudante de tecnologia, cursando análise e desenvolvimento de sistemas.
 
-*Nos repositórios disponibilizo meus materiais de estudo
+
+
   <div align="center" background-color="grey" justify content= "center">
   <a href="https://github.com/devmateuscarvalho">
   <img height="120em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
