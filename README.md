@@ -5,7 +5,6 @@
 
   <div align="center" background-color="grey" justify content= "center">
   <a href="https://github.com/devmateuscarvalho">
-  <img height="120em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=devmateuscarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
