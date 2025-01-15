@@ -26,3 +26,4 @@
 
  </div>
 
+![devmateuscarvalho'a Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&hide=html&theme=dracula&hide_border=true)
