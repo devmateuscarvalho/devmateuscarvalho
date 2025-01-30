@@ -1,27 +1,44 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="150" />
 
-
-
-
-  <div align="center" background-color="grey" justify content= "center">
+<div align="center">
   <a href="https://github.com/devmateuscarvalho">
-<img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark&hide=css,scss,html,javascript"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark&hide=css,scss,html,javascript"/>
+  </a>
 </div>
-  <br>
-  <div align="center">
-  <img align="center" alt="mateus-JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="mateus-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  
-  <img align="center" alt="mateus-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="mateus-JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="mateus-mongo" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img align="center" alt="mateus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mateus-Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="mateus-MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="mateus-linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-   <img align="center" alt="mateus-mongo" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 
- 
-    
+---
 
- </div>
+### 🚀 **Tecnologias que utilizo**
+
+#### 🖥️ **Linguagens de Programação**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="50" height="50"/>
+</div>
+
+#### 📚 **Frameworks e Bibliotecas**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>
+</div>
+
+#### 🛠️ **Ferramentas e Utilitários**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+
+</div>
+
+---
+
+### 📫 **Entre em contato comigo:**
+<div align="center">
+  <a href="https://github.com/devmateuscarvalho"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devmateuscarvalho"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
