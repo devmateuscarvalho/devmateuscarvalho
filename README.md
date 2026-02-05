@@ -1,13 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="150" />
 
-<div align="center">
-  <a href="https://github.com/devmateuscarvalho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmateuscarvalho&layout=compact&langs_count=7&theme=dark&hide=css,scss,html,javascript"/>
-  </a>
-</div>
-
----
-
 ### 🚀 **Technologies I Use**
 
 #### 🖥️ **Programming Languages**
